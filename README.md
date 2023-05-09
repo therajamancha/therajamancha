@@ -9,7 +9,7 @@ I have rich experience in website design and building and customization, also I 
 * 🌍  I'm based in Gujrat, India
 * 🖥️  See my portfolio at [MyPortfolio](http://therajamancha.github.io/portfolio/)
 * ✉️  You can contact me at [therajamancha@gmail.com](mailto:therajamancha@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm React developer
 
 <a href="https://www.github.com/therajamancha" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/therajamancha?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
