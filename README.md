@@ -1,35 +1,45 @@
-# Hello, I'm Raj Amancha! 👋
+# 👋 Hello, I'm Raj Amancha!
 
-I'm a passionate React Developer and tech enthusiast currently pursuing my BCA degree at Chandigarh University. With over 3 years of practical experience in web development, I thrive on creating high-quality, user-friendly web applications and exploring new challenges in the world of technology.
+I'm a Full-Stack JavaScript Developer with 3+ years of experience building fast, scalable, and intuitive web applications using modern frameworks like **React.js**, **Next.js**, and **Node.js**. I love transforming ideas into polished, production-ready software — whether it's a business dashboard, an event management platform, or a SaaS product.
 
-## 🚀 What I Do
+## 🚀 Tech Stack & What I Do
 
-- 💻 Front-End Development: Building responsive and engaging web interfaces using React and Next.js.
-- 🌐 Back-End Development: Leveraging Node.js and Express for robust server-side solutions.
-- 📦 State Management: Proficient in using Redux to manage complex application states.
-- 🛠️ Database Management: Working with MySQL and MongoDB for data storage.
-- 📱 Mobile Development: Crafting mobile apps with React Native.
-- 🌐 Web APIs: Creating and consuming RESTful APIs and WebSockets.
-- ⚙️ Version Control: Proficient with Git for efficient collaboration.
-- 🔍 Problem Solving: Passionate about debugging and finding elegant solutions to complex issues.
+- 💻 **Frontend:** React.js, Next.js (App & Pages Router), Tailwind CSS, ShadCN UI, MUI
+- ⚙️ **State Management:** Redux Toolkit, Zustand, Jotai, React Query
+- 🌐 **Backend:** Node.js, Express.js, Payload CMS (v2 & v3), GraphQL (Apollo Client)
+- 🧠 **Auth & Validation:** NextAuth.js, Formik, Yup
+- 💾 **Databases:** MongoDB, PostgreSQL, Supabase
+- ☁️ **Deployment & DevOps:** Vercel, AWS Amplify, S3, GitHub Actions
+- 🔧 **Tooling & Others:** Git, Postman, ClickUp, Figma, Jira, REST APIs
 
-## 📚 Education
+## 🧩 Notable Projects
 
-- 🎓 Bachelor of Computer Applications (BCA) at Chandigarh University.
-- 🎓 Information Technology Degree from the Industrial Training Institute.
+- **Hyprr** - Event management system using Payload v3, Next.js 15, Redux, and AWS services
+- **Boxio** - Club & member management platform (Payload v2, Amplify, S3)
+- **REX** - SaaS tool for home-buying workflow automation using Pabbly & Postman
+- **Coachverse** - Management app for online coaching (React, Supabase)
+- **Livlyt** - Device and employee tracking platform (Next.js, PostgreSQL)
+- **Eatviser** - React Native nutrition tracking app using Supabase
+- **Zechrome Website** - Company portfolio and service showcase (WordPress)
 
-## 🏆 Certifications and Awards
+👉 More on [my portfolio](https://therajamancha.vercel.app/)
 
-- Google Certified in the "Fundamentals of Digital Marketing."
-- Awarded as the "Best-Performing Fresher React Developer" at Zechrome Technologies.
+## 🎓 Education
 
-## 🔗 Let's Connect
+- Bachelor of Computer Applications (BCA), Chandigarh University
+- IT Certification from Industrial Training Institute
 
-I'm always eager to connect with like-minded professionals, collaborate on exciting projects, and share knowledge. Feel free to connect with me on LinkedIn or reach out through email.
+## 🏅 Certifications
 
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/therajamancha/)
-- Email: rajamancha989@gmail.com
+- ✅ Google "Fundamentals of Digital Marketing"
+- 🏆 Best Performing Fresher React Developer – Zechrome Technologies
 
+## 🤝 Let’s Connect
 
+I’m open to **remote/contract-based opportunities**, collaboration, and knowledge-sharing.  
+Feel free to explore my repositories or connect with me here:
 
-Thanks for visiting my GitHub profile! Feel free to explore my repositories and reach out for any collaborations or inquiries.
+- 🌐 [LinkedIn](https://www.linkedin.com/in/therajamancha/)
+- 📧 rajamancha989@gmail.com
+
+Thanks for stopping by! 🚀
