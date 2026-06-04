@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Raj Amancha!
 
-I'm a Full-Stack JavaScript Developer with 3+ years of experience building fast, scalable, and intuitive web applications using modern frameworks like **React.js**, **Next.js**, and **Node.js**. I love transforming ideas into polished, production-ready software — whether it's a business dashboard, an event management platform, or a SaaS product.
+I'm a Full-Stack JavaScript Developer with 5+ years of experience building fast, scalable, and intuitive web applications using modern frameworks like **React.js**, **Next.js**, and **Node.js**. I love transforming ideas into polished, production-ready software — whether it's a business dashboard, an event management platform, or a SaaS product.
 
 ## 🚀 Tech Stack & What I Do
 
